@@ -1,2 +1,3 @@
 # alpha_coders
-my second repo
+my second repo.
+Author-Nikhil
