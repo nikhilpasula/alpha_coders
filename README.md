@@ -1,4 +1,4 @@
 # alpha_coders
 my second repo
 <br>
-Author-Nikhil
+Author-Nikhil(alpha coder)
